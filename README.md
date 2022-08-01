@@ -1,6 +1,6 @@
 # Automatic-library-reservation-system
 Automatic-library-reservation-system DLUT
-
+## 代码粗糙但能用。大工同学们，请不要滥用！谢谢！
 
 ## Introduction
 Dalian University of Technology
